@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/nbdy?template=terminal&languages=1&isocalendar=1&activity=1&followup=1&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=UTC&config.animated=true)
+![Metrics](https://github.com/nbdy/nbdy/blob/master/metrics.svg)
