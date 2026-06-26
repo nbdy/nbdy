@@ -19,7 +19,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           
-          config_animated: yes
           config_timezone: Europe/Berlin
           config_order: base.header, base.activity+community, languages, base.repositories, stars, base.metadata
           
